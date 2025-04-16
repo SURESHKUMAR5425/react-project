@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: auto;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+    color:yellow;
+     background-image: url("https://media.istockphoto.com/id/1453838542/photo/last-light-on-mount-sneffels.jpg?s=612x612&w=0&k=20&c=IBOZYpAjhV5hFEL8yKYmY2ZCyCaGEOrXR5VZI13NMRI=");
+    font-style: aliceblue;
+    filter: blur(px);
+}
+h1 {
+    color: red;
+  font-size: 1.5rem;
+    
+    width: 55%;
+    border-radius: 5px;
+    border-style: solid;
+    box-shadow: 2px 2px 2px 2px orange;
+}
+.channu{
+    font-family: sans-serif;
+        font-size: ;
+  color: gold ;
+    width: 190px;
+    padding: 10px;
+      align-items: center;
+    margin-left: 30%;
+    border-style: solid;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    backdrop-filter: blur(2px);
+    border-color: black
+}
+input{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: orange
+    align-items: center;
+}
+.channu:hover{
+    color: black;
+    background-color:;
+    box-shadow: 3px 4px 5px 8px gray; 
+    border-color: yellow
+    
+}
+button{
+    border-radius: 10%;
+    border-style: 
+}
+button:hover{
+    color: gold;
+    background-color: black;
+    box-shadow: 2px 2px 2px 2px gold
+}
